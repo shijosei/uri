@@ -21,6 +21,6 @@ git clone https://github.com/shijosei/uri.git
 ```
 - If it says *permission denied* then use
 ```
-gchmod +x fuzz.sh
+chmod +x fuzz.sh
 ```
 - For fsanitize.sh you can do the same things.
