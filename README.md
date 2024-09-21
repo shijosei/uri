@@ -1,4 +1,4 @@
-# uri
+# Uri
 - Translates %xx (xx = two hex digits) to the character with the appropriate ASCII code. Translates '+' into space. Leaves all other characters unchanged.
 
 ## What is fuzz.sh?
